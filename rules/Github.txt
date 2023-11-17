@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
