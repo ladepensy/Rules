@@ -3,5 +3,4 @@ DOMAIN,npkg.xindong.com
 DOMAIN,nexus.tapsvc.com
 DOMAIN,npm.xindong.com
 DOMAIN,docs.google.com
-DOMAIN,xindong.atlassian.net
 IP-CIDR,172.26.0.0/16,no-resolve
