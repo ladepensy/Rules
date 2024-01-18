@@ -1,7 +1,8 @@
 DOMAIN,git.xindong.com
 DOMAIN,npkg.xindong.com
 DOMAIN,oa.xindong.com
-DOMAIN,nexus.tapsvc.com
 DOMAIN,npm.xindong.com
+DOMAIN,assets-h5.xindong.com
+DOMAIN,nexus.tapsvc.com
 DOMAIN,docs.google.com
 IP-CIDR,172.26.0.0/16,no-resolve
