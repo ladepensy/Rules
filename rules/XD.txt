@@ -1,5 +1,6 @@
 DOMAIN,git.xindong.com
 DOMAIN,npkg.xindong.com
+DOMAIN,oa.xindong.com
 DOMAIN,nexus.tapsvc.com
 DOMAIN,npm.xindong.com
 DOMAIN,docs.google.com
