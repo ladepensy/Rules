@@ -1,0 +1,5 @@
+DOMAIN,git.xindong.com
+DOMAIN,npkg.xindong.com
+DOMAIN,nexus.tapsvc.com
+DOMAIN,npm.xindong.com
+IP-CIDR,172.26.0.0/16,no-resolve
