@@ -1,5 +1,6 @@
 DOMAIN,git.xindong.com
 DOMAIN,npkg.xindong.com
+DOMAIN,pkg.xindong.com
 DOMAIN,oa.xindong.com
 DOMAIN,npm.xindong.com
 DOMAIN,assets-h5.xindong.com
