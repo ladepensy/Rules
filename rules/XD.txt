@@ -6,4 +6,5 @@ DOMAIN,npm.xindong.com
 DOMAIN,assets-h5.xindong.com
 DOMAIN,nexus.tapsvc.com
 DOMAIN,docs.google.com
+DOMAIN,chat-next.iem-bj.xmxdev.com
 IP-CIDR,172.26.0.0/16,no-resolve
