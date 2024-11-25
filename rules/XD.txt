@@ -1,3 +1,4 @@
+DOMAIN,git-huge.xindong.com
 DOMAIN,git.xindong.com
 DOMAIN,npkg.xindong.com
 DOMAIN,pkg.xindong.com
