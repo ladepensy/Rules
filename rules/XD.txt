@@ -1,6 +1,5 @@
 DOMAIN,git-huge.xindong.com
 DOMAIN,git.xindong.com
-DOMAIN,vpn.xindong.com
 DOMAIN,npkg.xindong.com
 DOMAIN,pkg.xindong.com
 DOMAIN,oa.xindong.com
