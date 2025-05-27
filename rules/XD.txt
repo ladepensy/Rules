@@ -10,3 +10,4 @@ DOMAIN,docs.google.com
 DOMAIN,chat-next.iem-bj.xmxdev.com
 IP-CIDR,172.26.0.0/16,no-resolve
 IP-CIDR,172.25.0.0/16,no-resolve
+IP-CIDR,172.19.0.0/16,no-resolve
