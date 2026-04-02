@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
