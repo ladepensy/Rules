@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,datadoghq.com
