@@ -1,0 +1,7 @@
+
+# Unity 全家桶强制走海外节点，避免被识别为中国 IP
+DOMAIN-SUFFIX,unity.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,unity.cn
+DOMAIN-SUFFIX,unitychina.cn
+DOMAIN-SUFFIX,unityweb.cn
