@@ -1,0 +1,24 @@
+# Cursor Desktop + Cursor CLI
+# 官方: https://cursor.com/docs/enterprise/network-configuration
+#
+# DOMAIN-SUFFIX 会匹配 apex 和所有层级子域
+# 例如 cursor.sh / api2.cursor.sh / agent.us.api5.cursor.sh
+
+# 核心后端（聊天、Agent、Tab、索引、登录）
+DOMAIN-SUFFIX,cursor.sh
+
+# 官网、安装脚本、控制台、Cloud Agents Web
+# curl https://cursor.com/install
+DOMAIN-SUFFIX,cursor.com
+
+# 扩展市场
+DOMAIN-SUFFIX,cursorapi.com
+
+# 静态资源 / CDN
+DOMAIN-SUFFIX,cursor-cdn.com
+
+# Cloud Agent VM（*.cursorvm.com 和 *.*.cursorvm.com 都被覆盖）
+DOMAIN-SUFFIX,cursorvm.com
+
+# 客户端 / CLI 更新（精确匹配，不要写成 amazonaws.com）
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
